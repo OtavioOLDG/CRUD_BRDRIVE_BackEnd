@@ -1,0 +1,2 @@
+# Coloque isso no seu .env
+DATABASE_URL="mysql://usuário:senha@localhost:3306/SeuBanco"
