@@ -82,7 +82,7 @@ Pré-requisitos: Node.js
 # clonar repositório
 git clone https://github.com/OtavioOLDG/CRUD_BRDRIVE_BackEnd
 
-# ir para o repositório backend
+# entrar na pasta do backend
 cd CRUD_BRDRIVE_BackEnd
 
 # após instale as dependências
@@ -105,6 +105,9 @@ Pré-requisitos: npm / yarn
 ```bash
 # clonar repositório
 git clone https://github.com/OtavioOLDG/CRUD_BRDRIVE_FrontEnd
+
+# entrar na pasta do frontend
+cd CRUD_BRDRIVE_FrontEnd
 
 # instalar dependências
 npm install
