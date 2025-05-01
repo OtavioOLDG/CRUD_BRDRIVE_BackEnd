@@ -114,6 +114,9 @@ npm install
 
 # executar o projeto
 npm run dev
+
+# entrar na aplicação web acesse em seu navegador:
+http://localhost:4000
 ```
 
 # Autor
