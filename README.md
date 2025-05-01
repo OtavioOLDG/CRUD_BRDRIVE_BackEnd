@@ -82,10 +82,14 @@ Pré-requisitos: Node.js
 # clonar repositório
 git clone https://github.com/OtavioOLDG/CRUD_BRDRIVE_BackEnd
 
+# ir para o repositório backend
+cd CRUD_BRDRIVE_BackEnd
+
 # após instale as dependências
 npm install
 
-# na mesma pasta que você clonou o projeto, crie um arquivo .env e cole o que está no .sample, substituindo o que for pertinente
+# na mesma pasta que você clonou o projeto
+crie um arquivo .env e cole o que está no .sample, substituindo o que for pertinente
 
 # Execute as migrações do Prisma -> Para criar ou atualizar o esquema do banco de dados
 npx prisma migrate dev
